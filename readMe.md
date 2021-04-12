@@ -18,9 +18,10 @@ skills:
 
 ## python 
  - data processing
- - machine learning
-  - tensorflow keras (newral network)
-  -   
 
+
+ - machine learning
+    - tensorflow keras (newral network)
+    - reinforcement Learning
  
 
