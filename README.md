@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, my name is yusuke
-![barnner][1782](https://user-images.githubusercontent.com/66249668/114358484-ed6e2c00-9bad-11eb-8748-e73dee4a420c.jpg)
+![barnner](https://user-images.githubusercontent.com/66249668/114358484-ed6e2c00-9bad-11eb-8748-e73dee4a420c.jpg)
 
 
 
