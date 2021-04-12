@@ -13,9 +13,10 @@
 
 ---
 
-<span style = 'align:center'>
-Skills: :chart_with_downwards_trend: R / :bar_chart: Python /:hammer: REACT / :bulb: JS / :key: HTML / :lock: CSS 
-</span>
+
+:chart_with_downwards_trend: R / :bar_chart: Python /:hammer: REACT / :bulb: JS / :key: HTML / :lock: CSS 
+
+---
 
 - 🔭 I’m currently working on this page. 
 
