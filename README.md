@@ -19,6 +19,6 @@
 ---
 
 
-<img src="https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png" alt="drawing" width="45" height="45" />
+<img src="https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png" alt="drawing" width="35" height="35" />
 - 🔭 I’m currently working on this page. 
 
