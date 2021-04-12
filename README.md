@@ -18,7 +18,9 @@
 
 ---
 
-![r](https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png = 10 *10)
+![r](https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png)
+
+![Rlogo](https://user-images.githubusercontent.com/66249668/114362633-80a96080-9bb2-11eb-9b5d-cdf30682464f.png)
 
 <img src="https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png" alt="drawing" width="30"/>
 - 🔭 I’m currently working on this page. 
