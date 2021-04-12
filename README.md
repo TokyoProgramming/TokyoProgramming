@@ -18,7 +18,7 @@
 
 ---
 
-![r](https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png)
+![r](https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png = 10 *10)
 
 
 - 🔭 I’m currently working on this page. 
