@@ -14,7 +14,7 @@ skills:
 
 ---
 ## R
- Working on Creating dag (Directed acyclic graph) automatically with using ***Path analysis method and hill climbing algorithm***
+***Path analysis method and hill climbing algorithm***
 
 ## python 
  - data processing
