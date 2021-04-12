@@ -14,7 +14,7 @@ skills:
 
 ---
 ## R
-***Path analysis method and hill climbing algorithm***
+**Path analysis method and hill climbing algorithm**
 
 ## python 
  - data processing
