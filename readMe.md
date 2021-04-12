@@ -12,6 +12,9 @@ Languages and Tools:
 
 :chart_with_downwards_trend: R / :bar_chart: Python /:hammer: REACT / :bulb: JS / :key: HTML / :lock: CSS 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/r.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tensorflow.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/keras.svg" />
 ---
 ## R
 **Path analysis method and hill climbing algorithm**
