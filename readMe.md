@@ -18,7 +18,10 @@ skills:
 
 ## python 
  - data processing
- - machine learning  
+ - machine learning
+    - ネスト リスト1_1
+        - ネスト リスト1_1_1
+        - ネスト リスト1_1_2
 
  
 
