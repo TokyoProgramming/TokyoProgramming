@@ -1,6 +1,6 @@
 ![barner2](https://user-images.githubusercontent.com/66249668/114359667-2d81de80-9baf-11eb-86a6-1589f6d65334.jpg)
 
-### Hi there 👋, my name is yusuke
+### Hi there 👋, my name is yusuke from JAPAN
 
 ---
 
