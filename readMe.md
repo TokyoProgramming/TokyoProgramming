@@ -22,6 +22,8 @@ skills:
 
  - machine learning
     - tensorflow keras (newral network)
-    - Reinforcement Learning => usinge OpenAI
+    - Reinforcement Learning => using OpenAI
+    - openCV
+    
  
 
