@@ -19,9 +19,8 @@ skills:
 ## python 
  - data processing
  - machine learning
-    - ネスト リスト1_1
-        - ネスト リスト1_1_1
-        - ネスト リスト1_1_2
+  - tensorflow keras (newral network)
+  -   
 
  
 
