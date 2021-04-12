@@ -28,12 +28,13 @@ skills:
  ## React
  
  - Chat App (MERN) 
- - facebook clone ()
- - tikcok clone()
- - youtube clone()
+ - facebook clone 
+ - tikcok clone
+ - youtube clone
+ 
 
 ## Vanilla javascript 
 
-- Chess App
+- Chess App 
 - sudoku solver (not using any algorithms)
 
