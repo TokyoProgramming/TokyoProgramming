@@ -23,6 +23,7 @@ skills:
 <img src="https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png" alt="drawing" width="35" height="35" />
 - 🔭 I’m currently working on Creating Dag automatically .
 dag (Directed acyclic graph)
+
 ![dag](https://user-images.githubusercontent.com/66249668/114363164-17761d00-9bb3-11eb-9f72-261c5073370d.png)
 
 
