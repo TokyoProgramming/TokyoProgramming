@@ -15,7 +15,7 @@ Languages and Tools:
 
  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/r.svg" />
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />
+[<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/python.svg" />][python]
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/tensorflow.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/keras.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/react.svg" />
