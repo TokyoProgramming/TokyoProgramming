@@ -25,5 +25,15 @@ skills:
     - Reinforcement Learning => using OpenAI
     - openCV
     
+ ## React
  
+ - Chat App (MERN) 
+ - facebook clone ()
+ - tikcok clone()
+ - youtube clone()
+
+## Vanilla javascript 
+
+- Chess App
+- sudoku solver (not using any algorithms)
 
