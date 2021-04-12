@@ -29,7 +29,7 @@ Languages and Tools:
 
 
  - machine learning
-    - tensorflow keras (newral network)
+    - tensorflow keras (neural network)
     - Reinforcement Learning => using OpenAI
     - openCV
     
