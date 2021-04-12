@@ -24,7 +24,5 @@ skills:
 - 🔭 I’m currently working on Creating Dag automatically .
 dag (Directed acyclic graph)
 
-<span style='align:left'>
 <img src='https://user-images.githubusercontent.com/66249668/114363164-17761d00-9bb3-11eb-9f72-261c5073370d.png' alt="dag" width='300' height='300' />
-</span>
 
