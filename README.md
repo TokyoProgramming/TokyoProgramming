@@ -14,13 +14,13 @@
 ---
 
 skills:
-<img src="https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png" alt="drawing" width="35" height="35" />
+
 :chart_with_downwards_trend: R / :bar_chart: Python /:hammer: REACT / :bulb: JS / :key: HTML / :lock: CSS 
 
 ---
 
 
-
+<img src="https://user-images.githubusercontent.com/66249668/114362223-109ada80-9bb2-11eb-8fff-1aaae2078caa.png" alt="drawing" width="35" height="35" />
 - 🔭 I’m currently working on Creating Dag automatically .
 dag (Directed acyclic graph)
 
