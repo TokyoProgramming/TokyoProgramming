@@ -37,7 +37,6 @@ Languages and Tools:
  
  - Chat App (MERN) 
  - [facebook_clone]
- 
  [facebook_clone]: https://github.com/TokyoProgramming/facebook__clone 
  
  - [tiktok_clone]
@@ -51,6 +50,7 @@ Languages and Tools:
 
 - [Chess_App] 
 [Chess_App]: https://github.com/TokyoProgramming/ChessGame-vanillaJS
+
 - [sudoku_solver] 
 [sudoku_solver]: https://github.com/TokyoProgramming/sudoku-solver-2
 
