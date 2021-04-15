@@ -45,9 +45,7 @@ Languages and Tools:
   - [tiktok_clone]
  [tiktok_clone]: https://github.com/TokyoProgramming/tiktoc_clone__react_firebase
  
- 
- - [tiktok_clone]
- [tiktok_clone]: https://github.com/TokyoProgramming/tiktoc_clone___react_firebase
+
  
  - [youtube_clone]
  [youtube_clone]: https://github.com/TokyoProgramming/youtube_clone__react_firebase
