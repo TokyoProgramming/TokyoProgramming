@@ -15,8 +15,8 @@ Languages and Tools:
 
 ---
 ## R
-[Path analysis method and hill climbing algorithm]
-[Path analysis method and hill climbing algorithm]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
+[Path_analysis_method_and_hill_climbing_algorithm]
+[Path_analysis_method_and_hill_climbing_algorithm]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
 
 
 ## python 
