@@ -56,8 +56,10 @@ Languages and Tools:
 ## Vanilla javascript 
 
 - [ChessApp] 
+
 [ChessApp]:https://github.com/TokyoProgramming/ChessGame-vanillaJS
 
 - [SudokuSolver] 
+
 [SudokuSolver]: https://github.com/TokyoProgramming/sudoku-solver-2
 
