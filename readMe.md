@@ -15,7 +15,9 @@ Languages and Tools:
 
 ---
 ## R
-**Path analysis method and hill climbing algorithm**
+[Path analysis method and hill climbing algorithm]
+[Path analysis method and hill climbing algorithm]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
+
 
 ## python 
  - [data_processing]
@@ -34,13 +36,18 @@ Languages and Tools:
  ## React
  
  - Chat App (MERN) 
- - facebook clone 
- - tikcok clone
- - youtube clone
+ - [facebook_clone]
+ [facebook_clone]: https://github.com/TokyoProgramming/facebook__clone 
+ - [tiktok_clone]
+ [tiktok_clone]: https://github.com/TokyoProgramming/tiktoc_clone___react_firebase
+ - [youtube_clone]
+ [youtube_clone]: https://github.com/TokyoProgramming/youtube_clone__react_firebase
  
 
 ## Vanilla javascript 
 
-- Chess App 
-- sudoku solver (not using any algorithms)
+- [Chess_App] 
+[Chess_App]: https://github.com/TokyoProgramming/ChessGame-vanillaJS
+- [sudoku_solver] 
+[sudoku_solver]: https://github.com/TokyoProgramming/sudoku-solver-2
 
