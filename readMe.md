@@ -16,6 +16,9 @@ Languages and Tools:
 ---
 ## R
  - [DAG]
+  create DAG(Directed Acyclic Graphs) automatically by path analisis method and hill climbing algorithm.
+  
+
  
  [DAG]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
  
