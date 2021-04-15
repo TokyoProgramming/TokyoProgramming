@@ -42,8 +42,9 @@ Languages and Tools:
  
  [facebook_clone]: https://github.com/TokyoProgramming/facebook__clone 
  
-  - [tiktok_clone]
- [tiktok_clone]: https://github.com/TokyoProgramming/tiktoc_clone__react_firebase
+  - [tiktok]
+  
+ [tiktok]: https://github.com/TokyoProgramming/tiktoc_clone__react_firebase
  
 
  
