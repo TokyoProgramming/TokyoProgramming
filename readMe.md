@@ -13,20 +13,19 @@ Languages and Tools:
 :chart_with_downwards_trend: R / :bar_chart: Python /:hammer: REACT / :bulb: JS / :key: HTML / :lock: CSS 
 
 
-This [website] is awesome.
-
-You will never use anything else than this [website].
-
-Check out [https://stackoverflow.com][website] for more fun.
-
-[website]: https://stackoverflow.com
 ---
 ## R
 **Path analysis method and hill climbing algorithm**
 
 ## python 
  - data processing
- - password_generator
+ - password_generator[website]
+
+
+
+Check out [https://github.com/TokyoProgramming/password_generator][website] for more fun.
+
+[website]: https://github.com/TokyoProgramming/password_generator
 
  - machine learning
     - tensorflow keras (neural network)
