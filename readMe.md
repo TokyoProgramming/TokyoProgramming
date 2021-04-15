@@ -48,8 +48,9 @@ Languages and Tools:
  
 
  
- - [youtube_clone]
- [youtube_clone]: https://github.com/TokyoProgramming/youtube_clone__react_firebase
+ - [youtube]
+
+ [youtube]:https://github.com/TokyoProgramming/youtube_clone__react_firebase
  
 
 ## Vanilla javascript 
