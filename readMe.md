@@ -15,8 +15,8 @@ Languages and Tools:
 
 ---
 ## R
-[Path_analysis_method_and_hill_climbing_algorithm]
-[Path_analysis_method_and_hill_climbing_algorithm]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
+[Path_analysis]
+[Path_analysis]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
 
 
 ## python 
@@ -37,9 +37,12 @@ Languages and Tools:
  
  - Chat App (MERN) 
  - [facebook_clone]
+ 
  [facebook_clone]: https://github.com/TokyoProgramming/facebook__clone 
+ 
  - [tiktok_clone]
  [tiktok_clone]: https://github.com/TokyoProgramming/tiktoc_clone___react_firebase
+ 
  - [youtube_clone]
  [youtube_clone]: https://github.com/TokyoProgramming/youtube_clone__react_firebase
  
