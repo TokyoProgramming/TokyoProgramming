@@ -21,7 +21,7 @@ Languages and Tools:
  - data processing
  - [password_generator]
  
- [passwor_generator]: https://github.com/TokyoProgramming/password_generator
+ [password_generator]: https://github.com/TokyoProgramming/password_generator
 
  - machine learning
     - tensorflow keras (neural network)
