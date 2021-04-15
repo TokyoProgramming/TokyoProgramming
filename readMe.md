@@ -15,8 +15,10 @@ Languages and Tools:
 
 ---
 ## R
-[Path_analysis]
-[Path_analysis]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
+ - [DAG]
+ 
+ [DAG]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
+ 
 
 
 ## python 
