@@ -19,7 +19,7 @@ Languages and Tools:
 
 ## python 
  - data processing
- - password_generator[website]
+ - password_generator:[website]
 
 
 
