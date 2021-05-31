@@ -34,9 +34,11 @@ Languages and Tools:
  
  [password_generator]: https://github.com/TokyoProgramming/password_generator
 
- - machine learning
-    - tensorflow keras (neural network)
-    - Reinforcement Learning => using OpenAI
+ - deep learning
+    - fastai (RNN LSTM) Covid-19 Twitter Text data  
+    [DAG]: https://github.com/TokyoProgramming/path_analysis_hill_climbing  
+    - fastai (Regression) Cancer data Diagnosisi
+    [DAG]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
     - openCV
     
  ## React
