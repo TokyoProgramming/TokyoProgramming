@@ -35,10 +35,13 @@ Languages and Tools:
  [password_generator]: https://github.com/TokyoProgramming/password_generator
 
  - deep learning
-    - fastai (RNN LSTM) Covid-19 Twitter Text data  
-    [DAG]: https://github.com/TokyoProgramming/path_analysis_hill_climbing  
-    - fastai (Regression) Cancer data Diagnosisi
-    [DAG]: https://github.com/TokyoProgramming/path_analysis_hill_climbing
+    - RNN_LSTM Covid-19 Twitter Text data  
+    
+    [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
+    
+    - Regression Cancer data Diagnosis
+    [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
+    
     - openCV
     
  ## React
