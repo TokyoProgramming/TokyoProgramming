@@ -35,12 +35,12 @@ Languages and Tools:
  [password_generator]: https://github.com/TokyoProgramming/password_generator
 
  - deep learning
-    - RNN_LSTM Covid-19 Twitter Text data  
+    - [RNN_LSTM] Covid-19 Twitter Text data  
     
     [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
     
-    - Regression Cancer data Diagnosis
-    [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
+    - [Regression_Cancer_data_Diagnosis]
+    [Regression_Cancer_data_Diagnosis]: https://github.com/TokyoProgramming/Cancer_Predict
     
     - openCV
     
