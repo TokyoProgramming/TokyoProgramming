@@ -1,5 +1,4 @@
 ![barner2](https://user-images.githubusercontent.com/66249668/114359667-2d81de80-9baf-11eb-86a6-1589f6d65334.jpg)
-![project_example](https://user-images.githubusercontent.com/66249668/120982186-61ded900-c7b3-11eb-9048-d1ba528e1458.gif)
 ### Hi there 👋, my name is yusuke from JAPAN
 
 ---
