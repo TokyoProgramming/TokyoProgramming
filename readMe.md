@@ -59,15 +59,15 @@ Languages and Tools:
  
  [facebook_clone]: https://github.com/TokyoProgramming/facebook__clone 
  
-  - [tiktok]
+  - [tiktok_clone]
   
- [tiktok]:https://github.com/TokyoProgramming/tiktoc_clone___react_firebase
+ [tiktok_clone]:https://github.com/TokyoProgramming/tiktoc_clone___react_firebase
  
 
  
- - [youtube]
+ - [youtube_clone]
 
- [youtube]:https://github.com/TokyoProgramming/youtube_clone__react_firebase
+ [youtube_clone]:https://github.com/TokyoProgramming/youtube_clone__react_firebase
  
 
 ## Vanilla javascript 
