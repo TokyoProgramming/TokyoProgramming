@@ -47,10 +47,12 @@ Languages and Tools:
     - [Regression] Cancer data Diagnosis
 
     ### confusion matrix -- 94% acuraccy 
+    training data shape = (398, 31) \n
+    test data shape = (171, 31)
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
-    | 0     | 318 | 15 |
-    | 1      | 15        |   165 |
+    | 0     | 101 | 7 |
+    | 1      | 2|   61 |
     
    
   
