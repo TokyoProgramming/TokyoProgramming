@@ -46,7 +46,7 @@ Languages and Tools:
     
     - [Regression] Cancer data Diagnosis
 
-    
+    ### confusion matrix -- 94% acuraccy 
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
     | 0     | 318 | 15 |
