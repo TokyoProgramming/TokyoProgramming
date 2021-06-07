@@ -15,8 +15,10 @@ Languages and Tools:
 ---
 ## R
  - [DAG]
- 
+ ##### Reinforcement Learning
   create DAG(Directed Acyclic Graphs) automatically by path analisis method and hill climbing algorithm.
+  
+  
   
 
  
