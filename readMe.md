@@ -44,12 +44,17 @@ Languages and Tools:
     [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
     
     
+    - [Regression] Cancer data Diagnosis
+
+    
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
     | 0     | 318 | 15 |
     | 1      | 15        |   165 |
+    
+   
   
-    - [Regression] Cancer data Diagnosis
+
  
     [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
     
