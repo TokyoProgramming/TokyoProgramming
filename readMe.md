@@ -43,7 +43,8 @@ Languages and Tools:
  
     [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
     
-    - openCV - Car_detection
+    - [openCV] - Car_detection
+    [openCV]: https://github.com/TokyoProgramming/opencv_car_detection/tree/master
     
  ## React
  
