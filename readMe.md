@@ -18,7 +18,7 @@ Languages and Tools:
  - ##### purpose :  create DAG (Directed Acyclic Graphs) 
  - ##### score function : AIC(Akaike information criterion) / BIC(Bayesian information criterion)
  - ##### Algorithms :  Hill Climbing Algorithm 
- - ##### Core methods
+ - ##### Core methods : choose score function, and proceed hill climbing argorithm( randomly add arc and caluculate score ... , check more details [DAG] .)
 
   
   
