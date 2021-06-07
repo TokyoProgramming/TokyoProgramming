@@ -16,8 +16,15 @@ Languages and Tools:
 ## R
  - [DAG]
  ##### Reinforcement Learning
-  create DAG(Directed Acyclic Graphs) automatically by path analisis method and hill climbing algorithm.
-  
+ - ## purpose 
+   create DAG (Directed Acyclic Graphs) 
+ - ## score function
+   AIC(Akaike information criterion)
+   BIC(Bayesian information criterion)
+ - ## Algorithms
+   Hill Climbing Algorithm 
+ - ## Core methods
+
   
   
 
