@@ -48,7 +48,7 @@ Languages and Tools:
     [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
     
     - [openCV]  Car_detection
-     - car_classification_trained model + openCV API  
+      - car_classification_trained model + openCV API  
     
     [openCV]: https://github.com/TokyoProgramming/opencv_car_detection/tree/master
     
