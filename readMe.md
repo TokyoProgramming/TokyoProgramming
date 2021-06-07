@@ -15,9 +15,9 @@ Languages and Tools:
 ---
 ## R
  - [DAG] ##### Reinforcement Learning
- - ##### purpose : ### create DAG (Directed Acyclic Graphs) 
- - ##### score function : ### AIC(Akaike information criterion) / BIC(Bayesian information criterion)
- - ##### Algorithms : ### Hill Climbing Algorithm 
+ - ##### purpose :  create DAG (Directed Acyclic Graphs) 
+ - ##### score function : AIC(Akaike information criterion) / BIC(Bayesian information criterion)
+ - ##### Algorithms :  Hill Climbing Algorithm 
  - ##### Core methods
 
   
