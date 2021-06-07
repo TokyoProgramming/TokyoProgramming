@@ -42,6 +42,11 @@ Languages and Tools:
     - [RNN_LSTM] Covid-19 Twitter Text data  
     
     [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
+    | Left-Aligned  | Center Aligned  | Right Aligned |
+    | :------------ |:---------------:| -----:|
+    | col 3 is      | some wordy text | $1600 |
+    | col 2 is      | centered        |   $12 |
+    | zebra stripes | are neat        |    $1 |
     
     - [Regression] Cancer data Diagnosis
  
