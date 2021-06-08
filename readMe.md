@@ -44,6 +44,10 @@ Languages and Tools:
         - total data shape = (41157 ,3)
         - train data shape = (28809, 3)
         - test data  shape = (12348, 3)
+    
+    - confusion_matrix
+   
+
 
     |                     | Extremely Negative  |  Negative | Neutral | Positive |  Extremely Positive | 
     | :------------ |:---------------:| -----:|:------------ |:---------------:| -----:|
@@ -58,6 +62,8 @@ Languages and Tools:
         - total data shape = (569, 31)
         - training data shape = (398, 31)
         - test data shape = (171, 31)
+    
+    - confusion_matrix
     
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
