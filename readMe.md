@@ -39,7 +39,8 @@ Languages and Tools:
  [password_generator]: https://github.com/TokyoProgramming/password_generator
 
  - deep learning
-    - [RNN_LSTM] Covid-19 Twitter Text data  
+    - [RNN_LSTM] Covid-19 Twitter Text data  <br/>
+    - <br />
 
     |                     | Extremely Negative  |  Negative | Neutral | Positive |  Extremely Positive | 
     | :------------ |:---------------:| -----:|:------------ |:---------------:| -----:|
