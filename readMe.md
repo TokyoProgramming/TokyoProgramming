@@ -30,17 +30,20 @@ Languages and Tools:
 
 
 ## python 
- - [data_processing]
+ - #### pure python projects
+    - [data_processing]
  
- [data_processing]: https://github.com/TokyoProgramming/data_processing
+    [data_processing]: https://github.com/TokyoProgramming/data_processing
  
- - [password_generator]
+    - [password_generator]
  
  [password_generator]: https://github.com/TokyoProgramming/password_generator
 
- - deep learning
-    - [RNN_LSTM] Covid-19 Twitter Text data  <br/>
-     <br />
+ - #### deep learning
+    - [RNN_LSTM] Covid-19 Twitter Text data - 78.9% accuracy
+        - total data shape = (41157 ,3)
+        - train data shape = (28809, 3)
+        - test data  shape = (12348, 3)
 
     |                     | Extremely Negative  |  Negative | Neutral | Positive |  Extremely Positive | 
     | :------------ |:---------------:| -----:|:------------ |:---------------:| -----:|
@@ -51,22 +54,16 @@ Languages and Tools:
     | Extremely Positive   | 1    |  12  | 10   | 422  | 1544|
 
     [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
+    - [Regression] Cancer data Diagnosis - 94% accuracy 
+        - total data shape = (569, 31)
+        - training data shape = (398, 31)
+        - test data shape = (171, 31)
     
-    
-    - [Regression] Cancer data Diagnosis
-
-    ### confusion matrix -- 94% accuracy 
-    training data shape = (398, 31)<br/>
-    test data shape = (171, 31)
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
     | 0     | 101 | 7 |
     | 1      | 2|   61 |
     
-   
-  
-
- 
     [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
     
     - [openCV]  Car_detection
@@ -101,4 +98,3 @@ Languages and Tools:
 - [SudokuSolver] 
 
 [SudokuSolver]: https://github.com/TokyoProgramming/sudoku-solver-2
-
