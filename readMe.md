@@ -115,7 +115,7 @@ Languages and Tools:
 
 - [ChessApp] 
 
- - description : <br/>
+  - description : <br/>
 This app is created by HTML5, CSS3 and vanilla javascript!!  
 As you know, European Chess is well known board game all over the world.  
 In this time, I covered basic movements of all the pieces(pawn, rook, knight, bishop, queen, king) and judge whether game is over or not (checkmate function).  
