@@ -35,11 +35,16 @@ Languages and Tools:
  
     [data_processing]: https://github.com/TokyoProgramming/data_processing
     
+
+    
+    - [password_generator]
+      - what you can do ...
+        - set number of Passwords which you need , and password's length   
+        - the output is such as like this
+
     ```
     ['5KO68x7W5', 'D2JdGkFRw', 'R8xaTUtz8', '2VOwUoNsa', 'Wr358HC7r']
     ```
-    
-    - [password_generator]
  
  [password_generator]: https://github.com/TokyoProgramming/password_generator
 
