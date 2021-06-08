@@ -63,7 +63,7 @@ Languages and Tools:
         - train data shape = (28809, 3)
         - test data  shape = (12348, 3)
     
-      - confusion_matrix
+
    
 
 
@@ -81,8 +81,7 @@ Languages and Tools:
         - training data shape = (398, 31)
         - test data shape = (171, 31)
     
-      - confusion_matrix
-    
+
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
     | 0     | 101 | 7 |
