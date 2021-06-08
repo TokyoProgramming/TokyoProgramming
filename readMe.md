@@ -40,7 +40,7 @@ Languages and Tools:
 
  - deep learning
     - [RNN_LSTM] Covid-19 Twitter Text data  <br/>
-    - <br />
+     <br />
 
     |                     | Extremely Negative  |  Negative | Neutral | Positive |  Extremely Positive | 
     | :------------ |:---------------:| -----:|:------------ |:---------------:| -----:|
