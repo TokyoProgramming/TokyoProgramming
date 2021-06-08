@@ -41,7 +41,7 @@ Languages and Tools:
  - deep learning
     - [RNN_LSTM] Covid-19 Twitter Text data  <br/>
      <br />
-
+```
     |                     | Extremely Negative  |  Negative | Neutral | Positive |  Extremely Positive | 
     | :------------ |:---------------:| -----:|:------------ |:---------------:| -----:|
     | Extrememly  Negative | 1068 | 470  | 8    | 25   | 1   |
@@ -49,7 +49,7 @@ Languages and Tools:
     | Neutral              | 3    |  121 | 1992 | 171  | 5   |
     | Positive             | 5    |  240 | 202  | 2792 | 251 |
     | Extremely Positive   | 1    |  12  | 10   | 422  | 1544|
-    
+```
     [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
     
     
