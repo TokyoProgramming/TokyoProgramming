@@ -31,11 +31,13 @@ Languages and Tools:
 
 ## python 
  - #### pure python projects
+
+<!---just
     - [data_processing]
  
     [data_processing]: https://github.com/TokyoProgramming/data_processing
     
-
+--->
     
     - [password_generator]
       - what you can do ...
