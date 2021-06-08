@@ -43,7 +43,7 @@ Languages and Tools:
         - the output is such as like this
 
     ```
-    passwords = pass_generate(5, 9) # 9 length of 5 passwords
+    passwords = pass_generate(5, 9) # 5 passwords have 9 degits in length
     passwords
     ```
     
