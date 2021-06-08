@@ -119,7 +119,12 @@ Languages and Tools:
 This app is created by HTML5, CSS3 and vanilla javascript!!  
 As you know, European Chess is well known board game all over the world.  
 In this time, I covered basic movements of all the pieces(pawn, rook, knight, bishop, queen, king) and judge whether game is over or not (checkmate function).  
-There are special movemnets in the specific situation in the game which was covered in this projects, such as Castling(both kingSideCastling and QueenSideCastling are covered in this app), pawnPassant and PawnPromotion. 
+There are special movemnets in the specific situation in the game which was covered in this projects, such as Castling(both kingSideCastling and QueenSideCastling are covered in this app), pawnPassant and PawnPromotion.  
+<br />
+Go to check the projects [ChessApp]
+
+
+
 
 [ChessApp]:https://github.com/TokyoProgramming/ChessGame-vanillaJS
 
