@@ -43,6 +43,9 @@ Languages and Tools:
         - the output is such as like this
 
     ```
+    passwords = pass_generate(5, 9) # 9 length of 5 passwords
+    passwords
+    
     ['5KO68x7W5', 'D2JdGkFRw', 'R8xaTUtz8', '2VOwUoNsa', 'Wr358HC7r']
     ```
  
