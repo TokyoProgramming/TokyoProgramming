@@ -11,7 +11,8 @@ Languages and Tools:
 
 :chart_with_downwards_trend: R / :bar_chart: Python /:hammer: REACT / :bulb: JS / :key: HTML / :lock: CSS 
 
-
+ <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+ 
 ---
 ## R
  - [DAG] : Reinforcement Learning
