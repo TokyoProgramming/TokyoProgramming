@@ -123,7 +123,7 @@
     | Extremely Positive   | 1    |  12  | 10   | 422  | 1544|
 
     [RNN_LSTM]: https://github.com/TokyoProgramming/Corona_NLP 
-    - [Regression] Cancer data Diagnosis - 94% accuracy 
+    - [Regression] Cancer data Diagnosis - 95% accuracy 
         - total data shape = (569, 31)
         - training data shape = (398, 31)
         - test data shape = (171, 31)
@@ -131,8 +131,8 @@
 
     | Predicted / Actual    | 0  | 1 |
     | :------------ |:---------------:| -----:|
-    | 0     | 101 | 7 |
-    | 1      | 2|   61 |
+    | 0     | 105 | 3  |
+    | 1      | 5  | 58 |
     
     [Regression]: https://github.com/TokyoProgramming/Cancer_Predict
     
