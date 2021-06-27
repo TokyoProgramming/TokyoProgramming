@@ -145,7 +145,9 @@
     [openCV]: https://github.com/TokyoProgramming/opencv_car_detection/tree/master
     
     
-    - pygame RPG: coming soon
+    - [pygame_RPG] 
+   
+    [pygame_RPG]: https://github.com/TokyoProgramming/RPG_GAME_Pygame
     
  ## React
  
