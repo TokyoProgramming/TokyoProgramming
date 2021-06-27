@@ -151,7 +151,7 @@
  
  - [Chat_App] (MERN) 
 
-[Chat_App] : https://github.com/TokyoProgramming/ChatApp_MERN_pusher
+[Chat_App]: https://github.com/TokyoProgramming/ChatApp_MERN_pusher
 
  - [facebook_UI]
  
